@@ -1,3 +1,32 @@
+# React I
+
+## time estimate ;)
+ - start : 2
+ - finish : 4
+ 
+ ---
+ ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
