@@ -1,6 +1,6 @@
 # React I
 
-## time estimate ;)
+## Time Estimate ;)
 ## Estimate of time needed to complete: 2 H
 
 
